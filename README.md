@@ -1,0 +1,2 @@
+# nordom
+nordom oldala
